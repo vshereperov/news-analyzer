@@ -29,7 +29,7 @@ NewsAnalyzer is a web application that analyzes news articles using natural lang
 
 1. Clone the repository:
     ```bash
-    git clone https://github.com/ihaveaplan66/news-analyzer.git
+    git clone https://github.com/vshereperov/news-analyzer.git
     cd NewsAnalyzer
     ```
 
@@ -58,11 +58,3 @@ NewsAnalyzer is a web application that analyzes news articles using natural lang
     ```
     http://localhost:5000
     ```
-
-## License
-
-This project is part of my personal portfolio and is provided under the MIT License.
-
-## Author
-
-Created by Volodymyr Shereperov
